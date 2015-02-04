@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=h\ k\ r
+comment0.target=MonteCarlo(double,\ double,\ double)
+comment0.text=\r\n\ Assigns\ the\ value\ to\ the\ field\ of\ the\ same\ name\r\n
+comment1.params=
+comment1.target=double\ nextRainDrop_x()
+comment1.text=\r\n\ @returns\ a\ random\ x-coordinate.\r\n
+comment2.params=
+comment2.target=double\ nextRainDrop_y()
+comment2.text=\r\n\ @returns\ a\ random\ y-coordinate.\r\n
+comment3.params=x\ y
+comment3.target=boolean\ insideCircle(double,\ double)
+comment3.text=\r\n\ @returns\ whether\ or\ not\ a\ point\ is\ inside\ or\ on\ the\ circle.\r\n
+numComments=4
